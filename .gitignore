@@ -1,0 +1,84 @@
+# =========================
+# Environment & Secrets
+# =========================
+.env
+
+# =========================
+# Virtual Environments
+# =========================
+.venv/
+venv/
+env/
+
+# =========================
+# Python Cache / Compiled
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Build / Distribution
+# =========================
+build/
+dist/
+*.egg
+*.egg-info/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Data (Do Not Version Raw Data)
+# =========================
+data/raw/
+data/processed/
+
+# =========================
+# Logs & Coverage
+# =========================
+*.log
+htmlcov/
+.coverage
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.swp
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+
+# =========================
+# PostgreSQL Local Files
+# =========================
+db/data/
+```gitignore
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/processed/
+
+# OS / IDE
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# PostgreSQL local files
+db/data/

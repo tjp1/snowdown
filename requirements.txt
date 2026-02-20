@@ -1,0 +1,25 @@
+# Database
+psycopg2-binary
+sqlalchemy
+python-dotenv
+
+# Core Data Stack
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Jupyter
+notebook
+ipykernel
+
+# Utilities
+requests
+
+# Testing (optional)
+# pytest
