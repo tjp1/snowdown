@@ -7,7 +7,7 @@ def main():
     with engine.connect() as conn:
         result = conn.execute(text("select count(1) from lift_usage;"))
         count = result.scalar()
-        print(f"User count: {count}")
+        print(f"Lift usage count: {count}")
 
 if __name__ == "__main__":
-    main()
+    main
