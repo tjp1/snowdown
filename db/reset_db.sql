@@ -9,3 +9,5 @@ DROP TABLE IF EXISTS members CASCADE;
 COMMIT;
 
 \ir init_tables.sql
+\ir import_raw.sql
+\ir migrations/create_customers_view.sql

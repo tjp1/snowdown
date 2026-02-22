@@ -10,3 +10,4 @@ Is the membership program net-positive for the resort when accounting for discou
 * Are there meaningful differences in behavior between long-tenured members and newer members?
 *******************************************************************************/
 
+/* How does total seasonal revenue from a typical member compare to a typical non-member? */
